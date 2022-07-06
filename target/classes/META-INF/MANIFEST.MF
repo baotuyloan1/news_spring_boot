@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ADMIN
+Build-Jdk: 17.0.2
+Implementation-Title: spring-boot-tintuc-tuhoc
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.baonguyenduc
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/spring-boot-t
+ intuc-tuhoc/
+Created-By: Maven Integration for Eclipse
+
